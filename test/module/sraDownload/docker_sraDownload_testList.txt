@@ -1,0 +1,2 @@
+ConfigFile	bash_biolockj_args	ExpectedOutcome
+${SHEP}/test/module/sraDownload/sraDownload.properties	 --blj --docker -e SHEP=${SHEP} 	BioLockJ_Complete
